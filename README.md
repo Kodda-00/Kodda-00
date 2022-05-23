@@ -1,4 +1,4 @@
-- 👋 Hello there ... I’m Kodda
+- 👋🏾 Well hello there ... I’m Kodda
 - // ... my non-koding companions call me Muratidzwa though.
 - 
 - 🌱 Right now, I'm studying for a Bachelor of Science degree in Robotics & Intelligent Systems
